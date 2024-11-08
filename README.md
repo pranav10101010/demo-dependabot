@@ -31,6 +31,7 @@ The enable Dependabot on your fork:
 - Click the **Insights** tab
 - In the left hand side navigation, click **Dependency Graph**
 - Click on the **Dependabot** tab
+- ..
 - Click on the **Enable Dependabot** button
 - After a moment, refresh the page and you should see Dependabot hard at work
 
